@@ -1,4 +1,4 @@
-# Iconic - Obsidian 图标收藏插件
+# Iconic - Obsidian 图标管理插件
 
 Iconic 是一款用于 Obsidian 的图标管理插件。
 
