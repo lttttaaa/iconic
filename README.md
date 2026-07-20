@@ -18,4 +18,4 @@ Iconic 是一款用于 Obsidian 的图标管理插件。
 ### 方法1：手动安装
 
 1. 下载插件文件
-2. 解压到：
+2. 解压到：你的Vault/.obsidian/plugins/iconic
